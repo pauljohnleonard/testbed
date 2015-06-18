@@ -1,6 +1,11 @@
 
 .idea/.name
 
+<<<<<<< HEAD
+=======
+.idea/workspace.xml
+
+>>>>>>> Test-branch
 .idea/misc.xml
 
 .idea/modules.xml
@@ -8,5 +13,8 @@
 .idea/testbed.iml
 
 .idea/vcs.xml
+<<<<<<< HEAD
 
 .idea/workspace.xml
+=======
+>>>>>>> Test-branch
